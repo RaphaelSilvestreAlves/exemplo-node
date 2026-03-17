@@ -1,0 +1,25 @@
+{
+  "name": "exemplo-node",
+  "version": "1.0.0",
+  "description": "![Imagem de capa do curso. O título é \"3519 - Node.js e terminal\" e o subtítulo é \"Dominando o ambiente de desenvolvimento front-end\".](./thumb.png)",
+  "homepage": "https://github.com/RaphaelSilvestreAlves/exemplo-node#readme",
+  "bugs": {
+    "url": "https://github.com/RaphaelSilvestreAlves/exemplo-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelSilvestreAlves/exemplo-node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.3",
+    "globals": "^17.4.0"
+  }
+}
