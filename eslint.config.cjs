@@ -1,5 +1,5 @@
-const js = require('@eslint/js')
-const globals = require('globals')
+const js = require("@eslint/js");
+const globals = require("globals");
 
 module.exports = [
   js.configs.recommended,
@@ -10,8 +10,8 @@ module.exports = [
       },
     },
     rules: {
-      semi: 'off',
-      quotes: 'off',
+      semi: "off",
+      quotes: "off",
     },
   },
-]
+];
